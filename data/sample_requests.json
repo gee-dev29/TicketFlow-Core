@@ -1,0 +1,35 @@
+[
+  {
+    "request_id": "REQ-1001",
+    "customer": {
+      "name": "Avery Chen",
+      "email": "avery.chen@example.com"
+    },
+    "subject": "Unable to reset password",
+    "description": "The password reset link expires immediately after it is sent.",
+    "urgent": true,
+    "created_at": "2025-03-10T09:15:00+00:00"
+  },
+  {
+    "request_id": "REQ-1002",
+    "customer": {
+      "name": "Jordan Rivera",
+      "email": "jordan.rivera@example.com"
+    },
+    "subject": "Question about invoice",
+    "description": "Please explain the additional charge on the latest invoice.",
+    "urgent": false,
+    "created_at": "2025-03-10T10:30:00+00:00"
+  },
+  {
+    "request_id": "REQ-1003",
+    "customer": {
+      "name": "Avery Chen",
+      "email": "avery.chen@example.com"
+    },
+    "subject": "Export report is incomplete",
+    "description": "The downloaded report is missing the final week's entries.",
+    "urgent": false,
+    "created_at": "2025-03-11T08:45:00+00:00"
+  }
+]
