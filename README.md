@@ -100,5 +100,5 @@ Document setup and add sample support requests
 Test request lifecycle and queue operations
 ```
 
-The repository currently has an initial commit; these examples are conventions
-for future changes, not a claim that additional commits have already been made.
+Apply this style consistently so each commit explains its change without
+requiring the reader to inspect the diff first.
